@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+#Productos img {
+  width: 22.5rem;
+  height: 15rem;
+}
+.rosado {
+background-color: #E83E8C;
+}
+footer img{
+  height: 6.25rem;
+  width: 3.3125rem;
+}
+i {
+  padding: 0.5rem;
+}
+nav img{
+  width: 8.25rem;
+  height: 3.3125rem;
+}
+.azul {
+  background-color: #17A2B8;
+}
+header h1 {
+  color: #E83E8C;
+}
